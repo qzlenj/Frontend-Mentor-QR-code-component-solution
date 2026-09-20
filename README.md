@@ -27,7 +27,7 @@ The goal was to recreate the provided design as closely as possible while practi
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/qzlenj/Frontend-Mentor-QR-code-component-solution)
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://qzlenj.github.io/Frontend-Mentor-QR-code-component-solution/?utm_source=chatgpt.com)
 
 ## My process
 
