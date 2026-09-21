@@ -1,6 +1,27 @@
-/* Default */
+:root {
+  --white: hsl(0, 0%, 100%); /* Card bg*/
+  --slate-300: hsl(212, 45%, 89%); /* Body bg*/
+  --slate-500: hsl(216, 15%, 48%); /* Paragraph color */
+  --slate-900: hsl(218, 44%, 22%); /* H1 color*/
+}
 
-.attribution {
+@font-face {
+  font-display: swap;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/outfit-v15-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Outfit";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/outfit-v15-latin-700.woff2") format("woff2");
+}
+
+/* .attribution {
   font-size: 0.6875rem;
   text-align: center;
   font-family: "Capriola", sans-serif;
@@ -18,10 +39,9 @@
 .attribution a:hover {
   text-decoration: underline;
   text-underline-offset: 5px;
-}
+} */
 
 body {
-  
   font-family: "Outfit", sans-serif;
   background-color: #d6e2f0;
   min-height: 100vh;
